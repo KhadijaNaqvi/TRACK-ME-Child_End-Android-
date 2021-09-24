@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "993295276784",
+    "firebase_url": "https://track-me-598d3.firebaseio.com",
+    "project_id": "track-me-598d3",
+    "storage_bucket": "track-me-598d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993295276784:android:d440206ff7fdae7cc9c035",
+        "android_client_info": {
+          "package_name": "com.example.track_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993295276784-0hq1a89ijk9lchjcrstu8t78qsd14g7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUX9BS-OIbL2ys7k61S6DNn4pc1ZvmhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993295276784-0hq1a89ijk9lchjcrstu8t78qsd14g7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993295276784:android:c04544aac49a81dcc9c035",
+        "android_client_info": {
+          "package_name": "com.project.tackme.child_end"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993295276784-0hq1a89ijk9lchjcrstu8t78qsd14g7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUX9BS-OIbL2ys7k61S6DNn4pc1ZvmhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993295276784-0hq1a89ijk9lchjcrstu8t78qsd14g7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
